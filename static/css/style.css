@@ -1,0 +1,43 @@
+*
+{
+	margin: 0px;
+}
+
+
+h1
+{
+	background-color: red;
+	color:blue;
+}
+
+header
+{
+	height: 100px;
+	background-color: orange;
+}
+
+section
+{
+	height: 500px;
+	background-color: gray;
+}
+footer
+{
+	height: 100px;
+	background-color: orange;
+}
+
+a
+{
+	background-color: black;
+	width:120px;
+	height: 30px;
+	text-align: center;
+	color:white;
+	font-size: 16px;
+	border-radius: 10px;
+	text-decoration: none;
+	display: inline-block;
+	margin-left: 20px;
+	margin-top: 20px;
+}
